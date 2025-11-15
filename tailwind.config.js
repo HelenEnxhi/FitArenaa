@@ -11,6 +11,10 @@ module.exports = {
         'nordic-dark': '#0E0E0E',
         'nordic-accent': '#00FFD1',
         'nordic-white': '#FFFFFF',
+        // FitArena brand colors (black, white, yellow-gold)
+        'arena-dark': '#000000',
+        'arena-yellow': '#FFD700',
+        'arena-gold': '#FFC107',
       },
       animation: {
         'glow': 'glow 2s ease-in-out infinite alternate',
